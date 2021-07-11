@@ -1,0 +1,10 @@
+h1{
+  font-family: 'Lucida Sans';
+}
+
+
+.sidebar{
+  width: 30%;
+  float: left;
+  background-color: yellow;
+}

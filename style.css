@@ -18,6 +18,7 @@ h1{
 .h4{
   font-family: 'Trebuchet MS';
   font-size: larger;
+  font-style: italic;
 }
 p.body{
   color: white;

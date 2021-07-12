@@ -10,16 +10,12 @@ h1{
 }
 #a{
   background-color: maroon;
-  margin: 30%;
-  padding: 30%;
-  height: 100%;
-  width: 50%;
+  color: white;
 }
-.h4{
+.span{
   font-family: 'Trebuchet MS';
   font-size: larger;
   font-style: italic;
+  color: yellow;
 }
-p.body{
-  color: white;
-}
+

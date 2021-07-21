@@ -7,6 +7,8 @@
 * Need to have a working up to date web browser( chrome, mozilla, safari)
 * have an active internet connection
 {To run this website all you need is a functioning web browser that can connect to the internet}
+## link to website 
+https://ajsoud97.github.io/myfirstwebsite/
 ## Name of Author
 * Aadil Jamal Soud
 ## Known Bugs
